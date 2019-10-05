@@ -82,7 +82,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel
+                    Alhamdulillah yaaaaa
                 </div>
 
                 <div class="links">
