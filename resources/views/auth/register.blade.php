@@ -88,7 +88,7 @@
     </div>
     <input id="captcha" type="text" class="form-control" placeholder="Enter Captcha" name="captcha">
     @if ($errors->has('captcha'))
-    {{ ('FAILED !!!') }}
+    {{ __('gagal') }}
         <span class="help-block">
             <strong>{{ $errors->first('captcha') }}</strong>
         </span>
